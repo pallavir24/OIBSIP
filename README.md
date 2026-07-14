@@ -24,7 +24,7 @@ This repository contains the tasks completed during my Data Science Virtual Inte
 ## 🛠️ Tech Stack & Tools Used
 * **Languages:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-* **Environments:** Jupyter Notebook / Google Colab
+* **Environments:** Google Colab
 * **Version Control:** GitHub
 
 ---
