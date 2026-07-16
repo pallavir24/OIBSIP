@@ -1,4 +1,4 @@
-# Oasis Infobyte (OIB--SIP) - Data Science Internship
+# Oasis Infobyte (OIB-SIP) - Data Science Internship 2026
 
 This repository contains the tasks completed during my Data Science Virtual Internship at **Oasis Infobyte** (SIP). The projects focus on applying data analysis, visualization, and machine learning techniques to solve real-world problems.
 
