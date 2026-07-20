@@ -35,9 +35,9 @@ This repository contains the tasks completed during my Data Science Virtual Inte
 │   ├── dataset.csv
 │   └── iris_classification.ipynb
 ├── Task 2 - Unemployment Analysis/
-│   ├── unemployment_data.csv
+│   ├── unemployment_dataset.csv
 │   └── unemployment_analysis.ipynb
 ├── Task 3 - Car Price Prediction/
-│   ├── car_data.csv
+│   ├── car_dataset.csv
 │   └── car_price_prediction.ipynb
 └── README.md
