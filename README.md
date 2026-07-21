@@ -1,43 +1,53 @@
-# Oasis Infobyte (OIB-SIP) - Data Science Internship 2026
+# Oasis Infobyte (OIB-SIP) - Data Science Internship
 
-This repository contains the tasks completed during my Data Science Virtual Internship at **Oasis Infobyte** (SIP). The projects focus on applying data analysis, visualization, and machine learning techniques to solve real-world problems.
-
-## 🚀 Projects Overview
-
-### Task 1: Iris Flower Classification
-* **Objective:** Predict the species of an iris flower based on its sepal and petal measurements.
-* **Tech Stack:** Python, Scikit-learn, Pandas, Seaborn
-* **Key Learning:** Implemented a supervised machine learning classification model (such as Logistic Regression or Random Forest) and evaluated its accuracy.
-
-### Task 2: Unemployment Analysis
-* **Objective:** Analyze the unemployment rate dataset, particularly focusing on the sharp spike during the COVID-19 lockdown period.
-* **Tech Stack:** Python, Pandas, Matplotlib, Plotly
-* **Key Learning:** Performed exploratory data analysis (EDA) and created interactive visualizations to observe regional and temporal trends in employment.
-
-### Task 3: Car Price Prediction
-* **Objective:** Estimate the price of used cars based on factors like brand, mileage, fuel type, and year.
-* **Tech Stack:** Python, Regression Algorithms, Scikit-learn
-* **Key Learning:** Engineered relevant features and applied regression models to accurately predict continuous numerical values.
+Welcome to my repository for the **Oasis Infobyte Virtual Internship (Data Science Track)**. This repository houses complete implementations, Exploratory Data Analysis (EDA), machine learning models, and evaluation reports for all 5 tasks assigned during the program.
 
 ---
 
-## 🛠️ Tech Stack & Tools Used
-* **Languages:** Python
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-* **Environments:** Google Colab
-* **Version Control:** GitHub
+## 📌 Project Overview
+
+* ### 🌺 Task 1: Iris Flower Classification
+  * **Type:** Supervised Classification
+  * **Objective:** Predict iris flower species (*Setosa*, *Versicolor*, *Virginica*) based on physical measurements.
+  * **Key Tech Stack:** Python, Scikit-learn, Pandas, Seaborn, Matplotlib
+
+* ### 📊 Task 2: Unemployment Analysis
+  * **Type:** Time-Series EDA & Data Visualization
+  * **Objective:** Analyze regional and temporal trends in Indian unemployment rates with a focus on COVID-19 impact.
+  * **Key Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Plotly
+
+* ### 🚗 Task 3: Car Price Prediction
+  * **Type:** Supervised Regression
+  * **Objective:** Estimate used car selling prices using vehicle age, brand, mileage, fuel type, and transmission mode.
+  * **Key Tech Stack:** Python, Scikit-learn, Pandas, Seaborn, Matplotlib
+
+* ### ✉️ Task 4: Email Spam Detection
+  * **Type:** Natural Language Processing (NLP) & Binary Classification
+  * **Objective:** Build an NLP model to classify emails as spam or legitimate (*ham*).
+  * **Key Tech Stack:** Python, NLTK, Scikit-learn (`TF-IDF Vectorizer`), WordCloud
+
+* ### 📈 Task 5: Sales Prediction
+  * **Type:** Supervised Regression & Trend Analysis
+  * **Objective:** Forecast product sales based on advertising spend across TV, Radio, and Newspaper channels.
+  * **Key Tech Stack:** Python, Scikit-learn, Pandas, Seaborn, Matplotlib
 
 ---
 
-## 📂 Repository Structure
+## 🛠️ Repository File Structure
+
 ```text
 ├── Task 1 - Iris Flower Classification/
-│   ├── dataset.csv
-│   └── iris_classification.ipynb
+│   ├── iris_classification.ipynb
 ├── Task 2 - Unemployment Analysis/
 │   ├── unemployment_dataset.csv
 │   └── unemployment_analysis.ipynb
 ├── Task 3 - Car Price Prediction/
 │   ├── car_dataset.csv
 │   └── car_price_prediction.ipynb
+├── Task 4 - Email Spam Detection/
+│   ├── spam_dataset.csv
+│   └── email_spam_detection.ipynb
+├── Task 5 - Sales Prediction/
+│   ├── advertising_dataset.csv
+│   └── sales_prediction.ipynb
 └── README.md
