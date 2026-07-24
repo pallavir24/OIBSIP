@@ -48,6 +48,8 @@ This project performs an **Exploratory Data Analysis (EDA)** on India's unemploy
    * Certain states consistently experienced significantly higher baseline unemployment rates compared to the national average.
 3. **Labour Participation Correlation:** 
    * A drop in employment numbers during lockdown periods directly correlated with sharp shifts in the overall labor participation rate across major regions.
+4. **Labor Force Shrinkage:** 
+   * Beyond rising unemployment rates, a significant drop in the overall Labour Participation Rate during peak disruption periods indicates that many individuals temporarily stopped actively seeking employment altogether, understating the total economic strain.
 
 ---
 
