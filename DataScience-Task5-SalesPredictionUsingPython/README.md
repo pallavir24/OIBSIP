@@ -10,7 +10,7 @@ This project builds a regression model to predict product sales based on adverti
 * **Data Manipulation:** `pandas`, `numpy`
 * **Data Visualization:** `matplotlib`, `seaborn`
 * **Machine Learning:** `scikit-learn`
-* **Environment:** Jupyter Notebook
+* **Environment:** Google Colab
 
 ---
 
