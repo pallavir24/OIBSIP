@@ -74,9 +74,7 @@ Text data was converted into numerical vectors using `TfidfVectorizer`.
 ## 🗂️ Project Structure
 ```text
 .
-├── data/
-│   └── spam.csv                  # Dataset file
-├── notebooks/
-│   └── Spam_Detection.ipynb      # Clean, fully commented Jupyter Notebook
-├── README.md                     # Project documentation
+├── spam.csv                 
+├── Spam_Detection.ipynb   
+├── README.md                    
 
