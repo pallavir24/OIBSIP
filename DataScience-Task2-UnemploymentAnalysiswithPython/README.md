@@ -10,7 +10,7 @@ This project performs an **Exploratory Data Analysis (EDA)** on India's unemploy
 
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
-* **Environment:** Jupyter Notebook / Google Colab
+* **Environment:** Jupyter Notebook
 * **Data Processing:** `pandas`, `numpy`
 * **Data Visualization:** `matplotlib`, `seaborn`
 
